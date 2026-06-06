@@ -39,4 +39,4 @@ and also I found no needs for nand when runnig mmc boot since mmc boot somehow c
             pinctrl-0 = <0x14>;
             phandle = <0x71>;
 
-Enjoy working example!!!
+Enjoy working SPI display example!!! If you need tools for font and graphic generator all php based here you go -> https://github.com/munjeni/stm32f411_antialiased_fonts Enjoy it too!!
